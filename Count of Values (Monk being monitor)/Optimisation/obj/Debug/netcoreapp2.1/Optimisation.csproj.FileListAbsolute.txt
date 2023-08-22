@@ -1,0 +1,22 @@
+D:\яя\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.csprojAssemblyReference.cache
+D:\яя\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.csproj.CoreCompileInputs.cache
+D:\яя\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.AssemblyInfoInputs.cache
+D:\яя\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.AssemblyInfo.cs
+D:\яя\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.deps.json
+D:\яя\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.runtimeconfig.json
+D:\яя\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.runtimeconfig.dev.json
+D:\яя\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.dll
+D:\яя\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.pdb
+D:\яя\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.dll
+D:\яя\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.deps.json
+D:\Рабочий стол\,Программирование\Visual Studio\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.runtimeconfig.json
+D:\Рабочий стол\,Программирование\Visual Studio\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.runtimeconfig.dev.json
+D:\Рабочий стол\,Программирование\Visual Studio\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.dll
+D:\Рабочий стол\,Программирование\Visual Studio\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.csprojAssemblyReference.cache
+D:\Рабочий стол\,Программирование\Visual Studio\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\,Программирование\Visual Studio\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.AssemblyInfoInputs.cache
+D:\Рабочий стол\,Программирование\Visual Studio\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.AssemblyInfo.cs
+D:\Рабочий стол\,Программирование\Visual Studio\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.dll
+D:\Рабочий стол\,Программирование\Visual Studio\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.pdb

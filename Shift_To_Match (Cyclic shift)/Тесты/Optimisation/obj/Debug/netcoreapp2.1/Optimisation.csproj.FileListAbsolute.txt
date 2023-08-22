@@ -1,0 +1,22 @@
+D:\яя\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.csprojAssemblyReference.cache
+D:\яя\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.csproj.CoreCompileInputs.cache
+D:\яя\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.AssemblyInfoInputs.cache
+D:\яя\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.AssemblyInfo.cs
+D:\яя\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.deps.json
+D:\яя\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.runtimeconfig.json
+D:\яя\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.runtimeconfig.dev.json
+D:\яя\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.dll
+D:\яя\VS Test\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.pdb
+D:\яя\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.dll
+D:\яя\VS Test\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.pdb
+D:\яя\VS Test\HackerEarth\Shift_To_Match (Cyclic shift)\Тесты\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.deps.json
+D:\яя\VS Test\HackerEarth\Shift_To_Match (Cyclic shift)\Тесты\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.runtimeconfig.json
+D:\яя\VS Test\HackerEarth\Shift_To_Match (Cyclic shift)\Тесты\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.runtimeconfig.dev.json
+D:\яя\VS Test\HackerEarth\Shift_To_Match (Cyclic shift)\Тесты\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.dll
+D:\яя\VS Test\HackerEarth\Shift_To_Match (Cyclic shift)\Тесты\Optimisation\bin\Debug\netcoreapp2.1\Optimisation.pdb
+D:\яя\VS Test\HackerEarth\Shift_To_Match (Cyclic shift)\Тесты\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.csprojAssemblyReference.cache
+D:\яя\VS Test\HackerEarth\Shift_To_Match (Cyclic shift)\Тесты\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.csproj.CoreCompileInputs.cache
+D:\яя\VS Test\HackerEarth\Shift_To_Match (Cyclic shift)\Тесты\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.AssemblyInfoInputs.cache
+D:\яя\VS Test\HackerEarth\Shift_To_Match (Cyclic shift)\Тесты\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.AssemblyInfo.cs
+D:\яя\VS Test\HackerEarth\Shift_To_Match (Cyclic shift)\Тесты\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.dll
+D:\яя\VS Test\HackerEarth\Shift_To_Match (Cyclic shift)\Тесты\Optimisation\obj\Debug\netcoreapp2.1\Optimisation.pdb
